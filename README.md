@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋 I'm Anju
+
+Web Developer based in Japan
+
 
 <!--
 **ansanigom/ansanigom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
